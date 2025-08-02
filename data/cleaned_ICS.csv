@@ -1,0 +1,1341 @@
+,identifier,titleEn,scopeEn
+0,01.020,Terminology (principles and coordination),Including terminography
+1,01.040,Vocabularies,
+2,01.060,Quantities and units,
+3,01.070,Colour coding,
+4,01.075,Character symbols,
+5,01.080,Graphical symbols,
+6,01.100,Technical drawings,
+7,01.110,Technical product documentation,"Including rules for preparation of user guides, manuals, product specifications, etc."
+8,01.120,Standardization. General rules,Including rules for the preparation of standards catalogues and management of technical documents
+9,01.140,Information sciences. Publishing,
+10,03.020,Sociology. Demography,
+11,03.040,Labour. Employment,
+12,03.060,Finances. Banking. Monetary systems. Insurance,Including personal financial planning
+13,03.080,Services,
+14,03.100,Company organization and management. Management systems,
+15,03.120,Quality,
+16,03.140,Patents. Intellectual property,
+17,03.160,Law. Administration,"Including flags and associated symbols (emblems) of political and administrative entities, military flags, flags of organizations, etc."
+18,03.180,Education,
+19,03.200,Leisure. Tourism,
+20,03.220,Transport,
+21,03.240,Postal services,"Including postal equipment, post-boxes and letter-boxes, etc."
+22,07.020,Mathematics,
+23,07.030,Physics. Chemistry,
+24,07.040,Astronomy. Geodesy. Geography,
+25,07.060,Geology. Meteorology. Hydrology,
+26,07.080,Biology. Botany. Zoology,Including biotechnology
+27,07.100,Microbiology,
+28,07.120,Nanotechnologies,
+29,07.140,Forensic science,
+30,11.020,Medical sciences and health care facilities in general,
+31,11.040,Medical equipment,
+32,11.060,Dentistry,
+33,11.080,Sterilization and disinfection,
+34,11.100,Laboratory medicine,
+35,11.120,Pharmaceutics,
+36,11.140,Hospital equipment,"Including hospital beds, surgical tables, medical garments, medical gloves, containers for sharp disposal, etc."
+37,11.160,First aid,"Including kits, equipment, facilities and medical transport for first aid"
+38,11.180,Aids for disabled or handicapped persons,Including aids for elderly people
+39,11.200,Birth control. Mechanical contraceptives,
+40,11.220,Veterinary medicine,Including equipment specific to veterinary medicine
+41,13.020,Environmental protection,
+42,13.030,Wastes,
+43,13.040,Air quality,
+44,13.060,Water quality,"Including toxicity, biodegradability, protection against pollution, related installations and equipment"
+45,13.080,Soil quality. Pedology,
+46,13.100,Occupational safety. Industrial hygiene,
+47,13.110,Safety of machinery,
+48,13.120,Domestic safety,
+49,13.140,Noise with respect to human beings,Including audiometry
+50,13.160,Vibration and shock with respect to human beings,
+51,13.180,Ergonomics,
+52,13.200,Accident and disaster control,Including emergency evacuations and emergency control systems
+53,13.220,Protection against fire,
+54,13.230,Explosion protection,
+55,13.240,Protection against excessive pressure,"Including safety valves, bursting disc devices, etc."
+56,13.260,Protection against electric shock. Live working,Including tools for working with voltages
+57,13.280,Radiation protection,Including protection against radio-frequency radiation
+58,13.300,Protection against dangerous goods,"Including performance requirements for dangerous goods, their handling, storage, transportation, marking, labelling, etc."
+59,13.310,Protection against crime,"Including security services, security procedures, burglar alarm devices, burglary resisting materials and equipment, bullet resisting materials and equipment, anti-theft devices for vehicles, safes, strong rooms, etc."
+60,13.320,Alarm and warning systems,
+61,13.340,Protective equipment,
+62,17.020,Metrology and measurement in general,"Including measuring instruments in general, preferred numbers, standard measures, general aspects of reference materials, etc."
+63,17.040,Linear and angular measurements,
+64,17.060,"Measurement of volume, mass, density, viscosity",Including measuring instruments
+65,17.080,"Measurement of time, velocity, acceleration, angular velocity",Including measuring instruments
+66,17.100,"Measurement of force, weight and pressure",Including measuring and weighing instruments
+67,17.120,Measurement of fluid flow,Including measuring instruments and installations
+68,17.140,Acoustics and acoustic measurements,Including measuring instruments and testing equipment
+69,17.160,"Vibrations, shock and vibration measurements",Including measuring instruments and installations
+70,17.180,Optics and optical measurements,
+71,17.200,Thermodynamics and temperature measurements,
+72,17.220,Electricity. Magnetism. Electrical and magnetic measurements,
+73,17.240,Radiation measurements,Including dosimetry
+74,19.020,Test conditions and procedures in general,
+75,19.040,Environmental testing,Including testing equipment
+76,19.060,Mechanical testing,Including testing equipment
+77,19.080,Electrical and electronic testing,Including testing equipment
+78,19.100,Non-destructive testing,"Including testing equipment: industrial apparatus for X-ray and gamma radiography, penetrant flaw detectors, etc."
+79,19.120,Particle size analysis. Sieving,Including test sieves and porosimetry
+80,21.020,"Characteristics and design of machines, apparatus, equipment","Including reliability, dependability, maintainability, durability, etc."
+81,21.040,Screw threads,
+82,21.060,Fasteners,
+83,21.080,"Hinges, eyelets and other articulated joints",
+84,21.100,Bearings,
+85,21.120,Shafts and couplings,
+86,21.140,"Seals, glands",
+87,21.160,Springs,
+88,21.180,"Housings, enclosures, other machine parts",
+89,21.200,Gears,
+90,21.220,Flexible drives and transmissions,
+91,21.240,Rotary-reciprocating mechanisms and their parts,"Including pistons, piston-rings, crankshafts, etc. for general engineering"
+92,21.260,Lubrication systems,
+93,23.020,Fluid storage devices,
+94,23.040,Pipeline components and pipelines,
+95,23.060,Valves,
+96,23.080,Pumps,
+97,23.100,Fluid power systems,
+98,23.120,Ventilators. Fans. Air-conditioners,
+99,23.140,Compressors and pneumatic machines,
+100,23.160,Vacuum technology,Including vacuum pumps
+101,25.020,Manufacturing forming processes,
+102,25.030,Additive manufacturing,
+103,25.040,Industrial automation systems,
+104,25.060,Machine tool systems,
+105,25.080,Machine tools,
+106,25.100,Cutting tools,Including industrial diamonds
+107,25.120,Chipless working equipment,
+108,25.140,Hand-held tools,
+109,25.160,"Welding, brazing and soldering","Including gas welding, electric welding, plasma welding, electron beam welding, plasma cutting, etc."
+110,25.180,Industrial furnaces,
+111,25.200,Heat treatment,
+112,25.220,Surface treatment and coating,Including processes and equipment for surface treatment and coating
+113,27.010,Energy and heat transfer engineering in general,
+114,27.015,Energy efficiency. Energy conservation in general,Including energy audits
+115,27.020,Internal combustion engines,
+116,27.040,Gas and steam turbines. Steam engines,
+117,27.060,Burners. Boilers,
+118,27.070,Fuel cells,
+119,27.075,Hydrogen technologies,
+120,27.080,Heat pumps,
+121,27.100,Power stations in general,Including thermal power plants
+122,27.120,Nuclear energy engineering,
+123,27.140,Hydraulic energy engineering,Including hydraulic turbines
+124,27.160,Solar energy engineering,Including photovoltaic energy systems
+125,27.180,Wind turbine energy systems,Including generation of electrical energy
+126,27.190,Biological sources and alternative sources of energy,
+127,27.200,Refrigerating technology,
+128,27.220,Heat recovery. Thermal insulation,
+129,29.020,Electrical engineering in general,"Including voltages, general electrical terminology, electrical documentation, electrical tables, safety, fire hazard testing, etc."
+130,29.030,Magnetic materials,
+131,29.035,Insulating materials,
+132,29.040,Insulating fluids,
+133,29.045,Semiconducting materials,
+134,29.050,Superconductivity and conducting materials,
+135,29.060,Electrical wires and cables,
+136,29.080,Insulation,
+137,29.100,Components for electrical equipment,
+138,29.120,Electrical accessories,
+139,29.130,Switchgear and controlgear,
+140,29.140,Lamps and related equipment,
+141,29.160,Rotating machinery,
+142,29.180,Transformers. Reactors,
+143,29.200,Rectifiers. Converters. Stabilized power supply,Including semiconductor converters
+144,29.220,Galvanic cells and batteries,
+145,29.240,Power transmission and distribution networks,
+146,29.260,Electrical equipment for working in special conditions,
+147,29.280,Electric traction equipment,Including railway electric fixed installations
+148,31.020,Electronic components in general,
+149,31.040,Resistors,
+150,31.060,Capacitors,
+151,31.080,Semiconductor devices,
+152,31.100,Electronic tubes,
+153,31.120,Electronic display devices,Including liquid crystal displays
+154,31.140,Piezoelectric devices,
+155,31.160,Electric filters,
+156,31.180,Printed circuits and boards,
+157,31.190,Electronic component assemblies,Including preassembled modules
+158,31.200,Integrated circuits. Microelectronics,"Including electronic chips, logical and analogue microstructures"
+159,31.220,Electromechanical components for electronic and telecommunications equipment,
+160,31.240,Mechanical structures for electronic equipment,
+161,31.260,Optoelectronics. Laser equipment,Including photoelectric tubes and cells
+162,33.020,Telecommunications in general,Including infrastructure
+163,33.030,Telecommunication services. Applications,"Including supplementary services, service aspects and associated legal traceability aspects"
+164,33.040,Telecommunication systems,Including network (system) aspects
+165,33.050,Telecommunication terminal equipment,
+166,33.060,Radiocommunications,
+167,33.070,Mobile services,
+168,33.080,Integrated Services Digital Network (ISDN),
+169,33.100,Electromagnetic compatibility (EMC),Including radio interference
+170,33.120,Components and accessories for telecommunications equipment,
+171,33.140,Special measuring equipment for use in telecommunications,
+172,33.160,"Audio, video and audiovisual engineering",
+173,33.170,Television and radio broadcasting,
+174,33.180,Fibre optic communications,
+175,33.200,Telecontrol. Telemetering,"Including Supervising, Control and Data Acquisition System (SCADA)"
+176,35.020,Information technology (IT) in general,Including general aspects of IT equipment
+177,35.030,IT Security,Including encryption
+178,35.040,Information coding,"Including coding of audio, picture, multimedia and hypermedia information, bar coding, etc."
+179,35.060,Languages used in information technology,
+180,35.080,Software,"Including software development, documentation and use"
+181,35.100,Open systems interconnection (OSI),
+182,35.110,Networking,"Including local area networks (LAN), metropolitan area networks (MAN), wide area networks (WAN), etc."
+183,35.140,Computer graphics,
+184,35.160,Microprocessor systems,"Including PCs, calculators, etc."
+185,35.180,IT terminal and other peripheral equipment,Including modems
+186,35.200,Interface and interconnection equipment,
+187,35.210,Cloud computing,
+188,35.220,Data storage devices,
+189,35.240,Applications of information technology,
+190,35.260,Office machines,"Including typewriters, dictation equipment, addressing machines, letter opening machines, letter folding machines, postal franking machines, their ribbons and other accessories, etc."
+191,37.020,Optical equipment,"Including microscopes, telescopes, binoculars, optical materials, optical components and optical systems"
+192,37.040,Photography,
+193,37.060,Cinematography,
+194,37.080,Document imaging applications,"Including micrographic, electronic and optical applications"
+195,37.100,Graphic technology,
+196,39.020,Precision mechanics,Including microsystems
+197,39.040,Horology,
+198,39.060,Jewellery,"Including precious metals, precious and semi-precious stones"
+199,43.020,Road vehicles in general,Including testing and recycling of road vehicles
+200,43.040,Road vehicle systems,
+201,43.060,Internal combustion engines for road vehicles,
+202,43.080,Commercial vehicles,
+203,43.100,Passenger cars. Caravans and light trailers,
+204,43.120,Electric road vehicles,Including their components and systems
+205,43.140,Motorcycles and mopeds,Including their components and systems
+206,43.150,Cycles,Including their components and systems
+207,43.160,Special purpose vehicles,Including waste collection vehicles and components and systems for special purpose vehicles
+208,43.180,"Diagnostic, maintenance and test equipment",Including repairing facilities
+209,45.020,Railway engineering in general,
+210,45.040,Materials and components for railway engineering,
+211,45.060,Railway rolling stock,"Including materials, components, electric and electronic equipment for railway rolling stock"
+212,45.080,Rails and railway components,Including track components
+213,45.100,Cableway equipment,Including ropeway equipment
+214,45.120,Equipment for railway/cableway construction and maintenance,
+215,45.140,"Metro, tram and light rail equipment",
+216,47.020,Shipbuilding and marine structures in general,"Including offshore structures, except offshore structures for petroleum and natural gas industries, and seabed mining"
+217,47.040,Seagoing vessels,Including their systems and components
+218,47.060,Inland navigation vessels,Including their systems and components
+219,47.080,Small craft,"Including small craft systems and components, and life-saving appliances"
+220,49.020,Aircraft and space vehicles in general,"Including aircraft performance, flight dynamics, etc."
+221,49.025,Materials for aerospace construction,
+222,49.030,Fasteners for aerospace construction,
+223,49.035,Components for aerospace construction,"Including bearings, rod ends and other mechanical components"
+224,49.040,Coatings and related processes used in aerospace industry,
+225,49.045,Structure and structure elements,
+226,49.050,Aerospace engines and propulsion systems,Including fuel systems
+227,49.060,Aerospace electric equipment and systems,Including Avionics
+228,49.080,Aerospace fluid systems and components,
+229,49.090,On-board equipment and instruments,Including navigation instruments and telecommunications equipment
+230,49.095,Passenger and cabin equipment,
+231,49.100,Ground service and maintenance equipment,
+232,49.120,Cargo equipment,
+233,49.140,Space systems and operations,"Including space data and information transfer systems, and ground support equipment for launch site operations"
+234,53.020,Lifting equipment,
+235,53.040,Continuous handling equipment,
+236,53.060,Industrial trucks,"Including fork-lift trucks, sliding platforms, etc."
+237,53.080,Storage equipment,"Including loading devices, shelves, etc."
+238,53.100,Earth-moving machinery,"Including tractors, excavators, loaders, graders, etc."
+239,53.120,Equipment for manual handling,"Including shovels, spades, crowbars, picks, etc."
+240,55.020,Packaging and distribution of goods in general,
+241,55.040,Packaging materials and accessories,"Including wrappers, paper, films, foils, cords, sealing devices, cushioning, etc."
+242,55.060,Spools. Bobbins,"Including holders, supports, etc. for externally wound or mounted material"
+243,55.080,Sacks. Bags,"Including sachets, envelopes"
+244,55.100,Bottles. Pots. Jars,Small containers for liquids and their closures
+245,55.120,Cans. Tins. Tubes,Light gauge metal and plastics containers
+246,55.130,Aerosol containers,
+247,55.140,Barrels. Drums. Canisters,"Containers mainly for transportation of fluids, including also casks, pails, large tin cans for shipping materials, etc."
+248,55.160,Cases. Boxes. Crates,Containers for solid goods or objects and bulk materials
+249,55.180,Freight distribution of goods,
+250,55.200,Packaging machinery,"Including labelling, marking, branding, filling, sealing machines, etc."
+251,55.220,Storing. Warehousing,
+252,55.230,Distribution and vending machines,"Including distribution of tickets, food, beverages, tobacco products, etc."
+253,59.020,Processes of the textile industry,
+254,59.040,Textile auxiliary materials,Including feathers and down
+255,59.060,Textile fibres,
+256,59.080,Products of the textile industry,
+257,59.100,Materials for the reinforcement of composites,
+258,59.120,Textile machinery,
+259,59.140,Leather technology,Including fur and imitation leather
+260,61.020,Clothes,"Including underwear, nightwear, knitwear, military clothing, hosiery, etc. and their labelling and size coding schemes"
+261,61.040,Headgear. Clothing accessories. Fastening of clothing,"Including ties, gloves, scarves, handkerchiefs, belts, braces, buttons, zip-fasteners, umbrellas, etc."
+262,61.060,Footwear,Including shoelaces
+263,61.080,Sewing machines and other equipment for the clothing industry,Including household sewing machines
+264,65.020,Farming and forestry,
+265,65.040,"Farm buildings, structures and installations",
+266,65.060,"Agricultural machines, implements and equipment",
+267,65.080,Fertilizers,Including soil conditioners and culture medium
+268,65.100,Pesticides and other agrochemicals,
+269,65.120,Animal feeding stuffs,
+270,65.140,Beekeeping,Including equipment and installations for beekeeping
+271,65.145,Hunting,Including equipment and installations for hunting
+272,65.150,Fishing and fish breeding,"Including hunting of marine mammals and reptiles, collection and breeding of aquatic molluscs and other marine products, equipment and installations for fishing and fish breeding, etc."
+273,65.160,"Tobacco, tobacco products and related equipment",
+274,67.020,Processes in the food industry,Including food hygiene and food safety
+275,67.040,Food products in general,
+276,67.050,General methods of tests and analysis for food products,
+277,67.060,"Cereals, pulses and derived products","Including grains, corn, flours, baked products, etc."
+278,67.080,Fruits. Vegetables,"Including canned, dried and quick-frozen fruits and vegetables"
+279,67.100,Milk and milk products,
+280,67.120,"Meat, meat products and other animal produce",Including frozen products
+281,67.140,Tea. Coffee. Cocoa,
+282,67.160,Beverages,
+283,67.180,Sugar. Sugar products. Starch,
+284,67.190,Chocolate,
+285,67.200,Edible oils and fats. Oilseeds,
+286,67.220,Spices and condiments. Food additives,
+287,67.230,Prepackaged and prepared foods,Including baby food
+288,67.240,Sensory analysis,
+289,67.250,Materials and articles in contact with foodstuffs,"Including catering containers, and materials and articles in contact with drinking water"
+290,67.260,Plants and equipment for the food industry,
+291,71.020,Production in the chemical industry,"Including plant layout and services, process design and control, processing operations, security measures, etc."
+292,71.040,Analytical chemistry,
+293,71.060,Inorganic chemicals,
+294,71.080,Organic chemicals,
+295,71.100,Products of the chemical industry,
+296,71.120,Equipment for the chemical industry,
+297,73.020,Mining and quarrying,"Including exploration, opening-up, development, working of mineral deposits, drilling, construction of mines, mining operations, processing of minerals, etc."
+298,73.040,Coals,Including lignites
+299,73.060,Metalliferous minerals and their concentrates,
+300,73.080,Non-metalliferous minerals,"Including mica, fluorspar, etc."
+301,73.100,Mining equipment,
+302,73.120,Equipment for processing of minerals,"Including equipment for milling, sizing, separation, flotation, concentration, etc."
+303,75.020,Extraction and processing of petroleum and natural gas,
+304,75.040,Crude petroleum,
+305,75.060,Natural gas,
+306,75.080,Petroleum products in general,
+307,75.100,"Lubricants, industrial oils and related products","Including mineral oils, fluids for metal working and for temporary protection against corrosion"
+308,75.120,Hydraulic fluids,
+309,75.140,"Waxes, bituminous materials and other petroleum products",
+310,75.160,Fuels,
+311,75.180,Equipment for petroleum and natural gas industries,
+312,75.200,Petroleum products and natural gas handling equipment,"Including petroleum and natural gas storage devices, distribution systems, pipelines, petrol stations, dispensing devices, etc."
+313,77.020,Production of metals,
+314,77.040,Testing of metals,
+315,77.060,Corrosion of metals,
+316,77.080,Ferrous metals,"Including classification, designation, sampling, chemical analysis, etc."
+317,77.100,Ferroalloys,"Including classification, designation, sampling, chemical analysis, etc."
+318,77.120,Non-ferrous metals,"Including classification, designation, sampling, chemical analysis, etc."
+319,77.140,Iron and steel products,
+320,77.150,Products of non-ferrous metals,Including products of non-ferrous metal alloys
+321,77.160,Powder metallurgy,Including sintered metal materials and hard metals
+322,77.180,Equipment for the metallurgical industry,
+323,79.020,Wood technology processes,Including logging and wood treatment
+324,79.040,"Wood, sawlogs and sawn timber",
+325,79.060,Wood-based panels,
+326,79.080,Semi-manufactures of timber,"Including parquet, wood paving, handles, etc."
+327,79.100,Cork and cork products,
+328,79.120,Woodworking equipment,
+329,81.020,Processes in the glass and ceramics industries,
+330,81.040,Glass,
+331,81.060,Ceramics,Including glass-ceramics
+332,81.080,Refractories,Including ceramic refractories
+333,81.100,Equipment for the glass and ceramics industries,
+334,83.020,Manufacturing processes in the rubber and plastics industries,
+335,83.040,Raw materials for rubber and plastics,
+336,83.060,Rubber,
+337,83.080,Plastics,
+338,83.100,Cellular materials,
+339,83.120,Reinforced plastics,
+340,83.140,Rubber and plastics products,
+341,83.160,Tyres,Including tubes and valves
+342,83.180,Adhesives,Including adhesive tapes
+343,83.200,Equipment for the rubber and plastics industries,
+344,85.020,Paper production processes,Including paper recycling
+345,85.040,Pulps,
+346,85.060,Paper and board,
+347,85.080,Paper products,Including paper based stationery
+348,85.100,Equipment for the paper industry,
+349,87.020,Paint coating processes,
+350,87.040,Paints and varnishes,"Including coating powders, paint coatings and protective paint systems"
+351,87.060,Paint ingredients,
+352,87.080,Inks. Printing inks,
+353,87.100,Paint coating equipment,
+354,91.010,Construction industry,
+355,91.020,Physical planning. Town planning,
+356,91.040,Buildings,
+357,91.060,Elements of buildings,
+358,91.080,Structures of buildings,"Including design, loading on and calculation of structures"
+359,91.090,External structures,"Including fences, gates, arches, sheds, garages, etc."
+360,91.100,Construction materials,Including sustainability of construction materials
+361,91.120,Protection of and in buildings,
+362,91.140,Installations in buildings,
+363,91.160,Lighting,Including oil and gas lamps
+364,91.180,Interior finishing,
+365,91.190,Building accessories,"Including locks, buzzers, bells, bolts, door and window hardware, etc."
+366,91.200,Construction technology,"Including measuring methods, construction sites, demolition of structures, etc."
+367,91.220,Construction equipment,"Including scaffolding, mixers for concrete and mortar, etc."
+368,93.010,Civil engineering in general,
+369,93.020,Earthworks. Excavations. Foundation construction. Underground works,Including geotechnics
+370,93.025,External water conveyance systems,Including buried and above ground installations
+371,93.030,External sewage systems,
+372,93.040,Bridge construction,
+373,93.060,Tunnel construction,
+374,93.080,Road engineering,
+375,93.100,Construction of railways,"Including the construction of tramways, funicular railways, cableways, rail traffic control equipment and installations, etc."
+376,93.110,Construction of ropeways,
+377,93.120,Construction of airports,Including air transport control equipment and installations
+378,93.140,"Construction of waterways, ports and dykes","Including river embankments, water transport control equipment and installations, etc."
+379,93.160,Hydraulic construction,
+380,95.020,Military in general,"Including defense procurement, defense standardization, etc."
+381,95.040,Military engineering,
+382,95.060,Weapons,
+383,97.020,Home economics in general,Including consumer information
+384,97.030,Domestic electrical appliances in general,Including water-bed heaters and electric blankets
+385,97.040,Kitchen equipment,
+386,97.060,Laundry appliances,"Including washing-machines, dry-cleaners, driers, ironing and pressing appliances, etc."
+387,97.080,Cleaning appliances,"Including vacuum cleaners, floor-cleaning machines, floor polishers, steam cleaners, pressure cleaners, hand operated cleaners, etc."
+388,97.100,"Domestic, commercial and industrial heating appliances",Including thermal storage room heating appliances
+389,97.120,Automatic controls for household use,
+390,97.130,Shop fittings,
+391,97.140,Furniture,"Including upholstery, mattresses, office furniture, school furniture, etc."
+392,97.145,Ladders,
+393,97.150,Floor coverings,
+394,97.160,Home textiles. Linen,"Including duvets, blankets, bedding"
+395,97.170,Body care equipment,"Including hair-driers, razors, shavers, toothbrushes, massage appliances, radiation skin treatment appliances, etc."
+396,97.180,Miscellaneous domestic and commercial equipment,"Including scissors, aquarium equipment, articles for domestic animals, battery chargers, mops, insect electrocutors, lighters, matches, paper clips, pens, pencils, etc."
+397,97.190,Equipment for children,Including child safety requirements for other household equipment
+398,97.195,Items of art and handicrafts. Cultural property and heritage,Including conservation of collections and equipment and materials for creating items of art and handicrafts
+399,97.200,Equipment for entertainment,
+400,97.220,Sports equipment and facilities,
+401,01.040.01,Generalities. Terminology. Standardization. Documentation (Vocabularies),
+402,01.040.03,"Services. Company organization, management and quality. Administration. Transport. Sociology. (Vocabularies)",
+403,01.040.07,Natural and applied sciences (Vocabularies),
+404,01.040.11,Health care technology (Vocabularies),
+405,01.040.13,Environment. Health protection. Safety (Vocabularies),
+406,01.040.17,Metrology and measurement. Physical phenomena (Vocabularies),
+407,01.040.19,Testing (Vocabularies),
+408,01.040.21,Mechanical systems and components for general use (Vocabularies),
+409,01.040.23,Fluid systems and components for general use (Vocabularies),
+410,01.040.25,Manufacturing engineering (Vocabularies),
+411,01.040.27,Energy and heat transfer engineering (Vocabularies),
+412,01.040.29,Electrical engineering (Vocabularies),
+413,01.040.31,Electronics (Vocabularies),
+414,01.040.33,Telecommunications. Audio and video engineering (Vocabularies),
+415,01.040.35,Information technology (Vocabularies),
+416,01.040.37,Image technology (Vocabularies),
+417,01.040.39,Precision mechanics. Jewellery (Vocabularies),
+418,01.040.43,Road vehicle engineering (Vocabularies),
+419,01.040.45,Railway engineering (Vocabularies),
+420,01.040.47,Shipbuilding and marine structures (Vocabularies),
+421,01.040.49,Aircraft and space vehicle engineering (Vocabularies),
+422,01.040.53,Materials handling equipment (Vocabularies),
+423,01.040.55,Packaging and distribution of goods (Vocabularies),
+424,01.040.59,Textile and leather technology (Vocabularies),
+425,01.040.61,Clothing industry (Vocabularies),
+426,01.040.65,Agriculture (Vocabularies),
+427,01.040.67,Food technology (Vocabularies),
+428,01.040.71,Chemical technology (Vocabularies),
+429,01.040.73,Mining and minerals (Vocabularies),
+430,01.040.75,Petroleum and related technologies (Vocabularies),
+431,01.040.77,Metallurgy (Vocabularies),
+432,01.040.79,Wood technology (Vocabularies),
+433,01.040.81,Glass and ceramics industries (Vocabularies),
+434,01.040.83,Rubber and plastics industries (Vocabularies),
+435,01.040.85,Paper technology (Vocabularies),
+436,01.040.87,Paint and colour industries (Vocabularies),
+437,01.040.91,Construction materials and building (Vocabularies),
+438,01.040.93,Civil engineering (Vocabularies),
+439,01.040.95,Military Affairs. Military engineering. Weapons (Vocabularies),
+440,01.040.97,Domestic and commercial equipment. Entertainment. Sports (Vocabularies),
+441,01.080.01,Graphical symbols in general,
+442,01.080.10,Public information symbols. Signs. Plates. Labels,"Including safety signs, safety colours, etc."
+443,01.080.20,Graphical symbols for use on specific equipment,
+444,01.080.30,"Graphical symbols for use on mechanical engineering and construction drawings, diagrams, plans, maps and in relevant technical product documentation",
+445,01.080.40,"Graphical symbols for use on electrical and electronics engineering drawings, diagrams, charts and in relevant technical product documentation",
+446,01.080.50,Graphical symbols for use on information technology and telecommunications technical drawings and in relevant technical product documentation,
+447,01.080.99,Other graphical symbols,
+448,01.100.01,Technical drawings in general,
+449,01.100.20,Mechanical engineering drawings,
+450,01.100.25,Electrical and electronics engineering drawings,"Including electrical tables, diagrams and charts"
+451,01.100.27,Technical drawings for telecommunications and information technology fields,
+452,01.100.30,Construction drawings,Including civil engineering drawings
+453,01.100.40,Drawing equipment,
+454,01.100.99,Other standards related to technical drawings,
+455,01.140.10,Writing and transliteration,
+456,01.140.20,Information sciences,"Including documentation, librarianship and archive systems"
+457,01.140.30,"Documents in administration, commerce and industry",
+458,01.140.40,Publishing,
+459,03.080.01,Services in general,
+460,03.080.10,Maintenance services. Facilities management,Including cleaning and pest control
+461,03.080.20,Services for companies,"Including publicity, advertising, professional services, recruitment services, management consultancy, outsourcing, etc."
+462,03.080.30,Services for consumers,"Including hotels, restaurants, washing, cleaning, removals, funerals, real estate, vehicle repair and servicing, furniture removals, services for elderly, sheltered housing services for elderly, sheltered housing, etc."
+463,03.080.99,Other services,
+464,03.100.01,Company organization and management in general,"Including legal aspects and risk management, societal security, outsourcing"
+465,03.100.02,Governance and ethics,"Including anti-bribery, anti-procurement fraud, corporate social responsibility"
+466,03.100.10,Purchasing. Procurement. Logistics,"Including asset management, supply chain, etc."
+467,03.100.20,Trade. Commercial function. Marketing,
+468,03.100.30,Management of human resources,"Including staff training, staff responsibilities, staff qualifications and certification"
+469,03.100.40,Research and development,"Including project management, value analysis, etc."
+470,03.100.50,Production. Production management,
+471,03.100.60,Accountancy,
+472,03.100.70,Management systems,"Including environmental management systems (EMS), road traffic management systems, energy management systems, health care management systems, etc."
+473,03.100.99,Other standards related to company organization and management,
+474,03.120.01,Quality in general,Including general aspects related to reliability and maintainability
+475,03.120.10,Quality management and quality assurance,
+476,03.120.20,Product and company certification. Conformity assessment,Including laboratory accreditation and audit programmes and auditing
+477,03.120.30,Application of statistical methods,
+478,03.120.99,Other standards related to quality,
+479,03.200.01,Leisure and tourism in general,"Including outdoor events management, tourist information offices, tourism services, hotels, etc."
+480,03.200.10,Adventure tourism,
+481,03.200.99,Other standards relating to leisure and tourism,Including recreational diving services
+482,03.220.01,Transport in general,
+483,03.220.20,Road transport,Including road transport services
+484,03.220.30,Transport by rail,Including rail transport services
+485,03.220.40,Transport by water,Including water transport services
+486,03.220.50,Air transport,Including air transport services
+487,03.220.99,Other forms of transport,
+488,07.100.01,Microbiology in general,
+489,07.100.10,Medical microbiology,
+490,07.100.20,Microbiology of water,
+491,07.100.30,Food microbiology,Including microbiology of animal feeding stuffs
+492,07.100.40,Cosmetics microbiology,
+493,07.100.99,Other standards related to microbiology,
+494,11.020.01,Quality and environmental management in health care,Including quality and environmental management in health care technology
+495,11.020.10,Health care services in general,"Including care homes, dementia care, assisted living, aesthetic surgery, chiropractic services, etc."
+496,11.020.20,Medical science,"Including regenerative medicine, cell therapy, stratified medicine"
+497,11.020.99,Other standards related to health care in general,
+498,11.040.01,Medical equipment in general,
+499,11.040.10,"Anaesthetic, respiratory and reanimation equipment",Including medical gas installations
+500,11.040.20,"Transfusion, infusion and injection equipment",Including blood packs and containers for transfusion
+501,11.040.25,"Syringes, needles and catheters",
+502,11.040.30,Surgical instruments and materials,"Including surgical dressings, sutures, etc."
+503,11.040.40,"Implants for surgery, prosthetics and orthotics",Including pacemakers
+504,11.040.50,Radiographic equipment,Including radiographic diagnostic and therapy equipment
+505,11.040.55,Diagnostic equipment,"Including medical monitoring equipment, medical thermometers and related materials"
+506,11.040.60,Therapy equipment,
+507,11.040.70,Ophthalmic equipment,"Including ophthalmic implants, glasses, contact lenses and their cleaning products"
+508,11.040.99,Other medical equipment,
+509,11.060.01,Dentistry in general,
+510,11.060.10,Dental materials,
+511,11.060.15,Dental implants,Including dentures
+512,11.060.20,Dental equipment,
+513,11.060.25,Dental instruments,
+514,11.080.01,Sterilization and disinfection in general,"Including sterilization methods, air quality of surgery rooms, etc."
+515,11.080.10,Sterilizing equipment,
+516,11.080.20,Disinfectants and antiseptics,Including indicators
+517,11.080.30,Sterilized packaging,
+518,11.080.99,Other standards related to sterilization and disinfection,
+519,11.100.01,Laboratory medicine in general,
+520,11.100.10,In vitro diagnostic test systems,
+521,11.100.20,Biological evaluation of medical devices,
+522,11.100.30,Analysis of blood and urine,Including doping control
+523,11.100.99,Other standards related to laboratory medicine,
+524,11.120.01,Pharmaceutics in general,
+525,11.120.10,Medicaments,Including medical prescriptions and medicinal herbs
+526,11.120.20,Wound dressings and compresses,
+527,11.120.99,Other standards related to pharmaceutics,Including equipment for pharmaceutical industry
+528,11.180.01,Aids for disabled and handicapped persons in general,
+529,11.180.10,Aids and adaptation for moving,"Including wheelchairs, walking sticks and lifting platforms"
+530,11.180.15,Aids for deaf and hearing impaired people,
+531,11.180.20,Aids for incontinence and ostomy,
+532,11.180.30,Aids for blind or partially sighted people,Including Braille
+533,11.180.40,Aids for drinking and eating,
+534,11.180.99,Other standards related to aids for disabled and handicapped people,
+535,13.020.01,Environment and environmental protection in general,
+536,13.020.10,Environmental management,Including certification and audit
+537,13.020.20,Environmental economics. Sustainability,"Including responsible sourcing, procurement, sustainable development, sustainable events management, sustainable communities, smart urban infrastructure, biodiversity"
+538,13.020.30,Environmental impact assessment,Including environmental risk management
+539,13.020.40,"Pollution, pollution control and conservation",Including ecotoxicology and greenhouse gas emissions
+540,13.020.50,Ecolabelling,
+541,13.020.55,Biobased products,
+542,13.020.60,Product life-cycles,"Including environmental footprint, carbon neutrality"
+543,13.020.70,Environmental projects,
+544,13.020.99,Other standards related to environmental protection,
+545,13.030.01,Wastes in general,
+546,13.030.10,Solid wastes,
+547,13.030.20,Liquid wastes. Sludge,
+548,13.030.30,Special wastes,"Including radioactive wastes, hospital wastes, carcasses, electrical, electronic equipment and other hazardous wastes"
+549,13.030.40,Installations and equipment for waste disposal and treatment,"Including street cleaning equipment, waste containers, incineration and compaction equipment, equipment for dumping of refuse, landfill sites, etc."
+550,13.030.50,Recycling,Including relevant equipment
+551,13.030.99,Other standards related to wastes,Including waste prevention
+552,13.040.01,Air quality in general,
+553,13.040.20,Ambient atmospheres,Including indoor air
+554,13.040.30,Workplace atmospheres,
+555,13.040.35,Cleanrooms and associated controlled environments,
+556,13.040.40,Stationary source emissions,
+557,13.040.50,Transport exhaust emissions,
+558,13.040.99,Other standards related to air quality,
+559,13.060.01,Water quality in general,
+560,13.060.10,Water of natural resources,
+561,13.060.20,Drinking water,
+562,13.060.25,Water for industrial use,"Including water for commercial use: for swimming pools, fish breeding, etc."
+563,13.060.30,Sewage water,Including sewage water disposal and treatment
+564,13.060.45,Examination of water in general,Including sampling
+565,13.060.50,Examination of water for chemical substances,
+566,13.060.60,Examination of physical properties of water,
+567,13.060.70,Examination of biological properties of water,
+568,13.060.99,Other standards related to water quality,
+569,13.080.01,Soil quality and pedology in general,"Including pollution, erosion, degradation, etc."
+570,13.080.05,Examination of soils in general,Including sampling
+571,13.080.10,Chemical characteristics of soils,
+572,13.080.20,Physical properties of soils,
+573,13.080.30,Biological properties of soils,
+574,13.080.40,Hydrological properties of soils,
+575,13.080.99,Other standards related to soil quality,Including agricultural aspects related to soils and re-use of soil materials
+576,13.220.01,Protection against fire in general,Including fire safety
+577,13.220.10,Fire-fighting,Including equipment and vehicles
+578,13.220.20,Fire protection,Including equipment
+579,13.220.40,Ignitability and burning behaviour of materials and products,
+580,13.220.50,Fire-resistance of building materials and elements,
+581,13.220.99,Other standards related to protection against fire,
+582,13.340.01,Protective equipment in general,
+583,13.340.10,Protective clothing,Including flameproof clothing
+584,13.340.20,Head protective equipment,"Including helmets, eye-protectors, hearing protectors, ear muffs, teeth protectors and hoods."
+585,13.340.30,Respiratory protective devices,
+586,13.340.40,Hand and arm protection,"Including protective gloves, sleeves and mits"
+587,13.340.50,Leg and foot protection,Including safety boots and shoes
+588,13.340.60,Protection against falling and slipping,"Including safety ropes, harnesses and fall arrestors"
+589,13.340.70,"Lifejackets, buoyancy aids and flotation devices",
+590,13.340.99,Other protective equipment,
+591,17.040.01,Linear and angular measurements in general,
+592,17.040.10,Limits and fits,
+593,17.040.20,Properties of surfaces,
+594,17.040.30,Measuring instruments,
+595,17.040.40,Geometrical Product Specification (GPS),
+596,17.040.99,Other standards related to linear and angular measurements,
+597,17.120.01,Measurement of fluid flow in general,
+598,17.120.10,Flow in closed conduits,
+599,17.120.20,Flow in open channels,Including hydrometric determinations
+600,17.140.01,Acoustic measurements and noise abatement in general,Including acoustic insulation
+601,17.140.20,Noise emitted by machines and equipment,
+602,17.140.30,Noise emitted by means of transport,"Including road noise, railway noise, harbour noise and airport noise"
+603,17.140.50,Electroacoustics,Including sound level meters
+604,17.140.99,Other standards related to acoustics,
+605,17.180.01,Optics and optical measurements in general,
+606,17.180.20,Colours and measurement of light,
+607,17.180.30,Optical measuring instruments,"Including spectroscopes, geodetic instruments, etc."
+608,17.180.99,Other standards related to optics and optical measurements,
+609,17.200.01,Thermodynamics in general,
+610,17.200.10,Heat. Calorimetry,
+611,17.200.20,Temperature-measuring instruments,Including thermostats
+612,17.200.99,Other standards related to thermodynamics,
+613,17.220.01,Electricity. Magnetism. General aspects,Including electromagnetism
+614,17.220.20,Measurement of electrical and magnetic quantities,"Including measuring instruments, instrument transformers"
+615,17.220.99,Other standards related to electricity and magnetism,
+616,21.040.01,Screw threads in general,
+617,21.040.10,Metric screw threads,
+618,21.040.20,Inch screw threads,Including Whitworth screw threads
+619,21.060.01,Fasteners in general,
+620,21.060.10,"Bolts, screws, studs",
+621,21.060.20,Nuts,
+622,21.060.30,"Washers, locking elements",
+623,21.060.40,Rivets,
+624,21.060.50,"Pins, nails",
+625,21.060.60,"Rings, bushes, sleeves, collars",
+626,21.060.70,Clamps and staples,
+627,21.060.99,Other fasteners,
+628,21.100.01,Bearings in general,
+629,21.100.10,Plain bearings,
+630,21.100.20,Rolling bearings,
+631,21.120.01,Shafts and couplings in general,
+632,21.120.10,Shafts,
+633,21.120.20,Couplings,
+634,21.120.30,"Keys and keyways, splines",
+635,21.120.40,Balancing and balancing machines,
+636,21.120.99,Other standards related to shafts and couplings,
+637,21.220.01,Flexible drives and transmissions in general,
+638,21.220.10,Belt drives and their components,
+639,21.220.20,Cable or rope drives and their components,
+640,21.220.30,Chain drives and their components,
+641,21.220.99,Other flexible drives and transmissions,
+642,23.020.01,Fluid storage devices in general,
+643,23.020.10,Stationary containers and tanks,
+644,23.020.20,Vessels and containers mounted on vehicles,
+645,23.020.30,Pressure vessels,
+646,23.020.35,Gas cylinders,
+647,23.020.40,Cryogenic vessels,
+648,23.020.99,Other fluid storage devices,
+649,23.040.01,Pipeline components and pipelines in general,
+650,23.040.03,Pipelines and its parts for external water conveyance systems,
+651,23.040.05,Pipelines and its parts for external sewage systems,
+652,23.040.07,Pipelines and its parts for district heat,
+653,23.040.10,Iron and steel pipes,
+654,23.040.15,Non-ferrous metal pipes,
+655,23.040.20,Plastics pipes,
+656,23.040.40,Metal fittings,
+657,23.040.45,Plastics fittings,
+658,23.040.50,Pipes and fittings of other materials,
+659,23.040.60,"Flanges, couplings and joints",
+660,23.040.70,Hoses and hose assemblies,
+661,23.040.80,Seals for pipe and hose assemblies,
+662,23.040.99,Other pipeline components,
+663,23.060.01,Valves in general,
+664,23.060.10,Globe valves,
+665,23.060.20,Ball and plug valves,
+666,23.060.30,Gate valves,
+667,23.060.40,Pressure regulators,Including pressure-reducers
+668,23.060.50,Check valves,
+669,23.060.99,Other valves,
+670,23.100.01,Fluid power systems in general,
+671,23.100.10,Pumps and motors,
+672,23.100.20,Cylinders,
+673,23.100.40,Piping and couplings,
+674,23.100.50,Control components,Including valves
+675,23.100.60,"Filters, seals and contamination of fluids",
+676,23.100.99,Other fluid power system components,
+677,25.040.01,Industrial automation systems in general,
+678,25.040.10,Machining centres,
+679,25.040.20,Numerically controlled machines,
+680,25.040.30,Industrial robots. Manipulators,
+681,25.040.40,Industrial process measurement and control,
+682,25.040.99,Other industrial automation systems,
+683,25.060.01,Machine tool systems in general,
+684,25.060.10,Modular units and other devices,
+685,25.060.20,Dividing and tool-workpiece holding devices,
+686,25.060.99,Other machine tool systems,
+687,25.080.01,Machine tools in general,
+688,25.080.10,Lathes,
+689,25.080.20,Boring and milling machines,
+690,25.080.25,Planing machines,
+691,25.080.30,Broaching machines,
+692,25.080.40,Drilling machines,
+693,25.080.50,Grinding and polishing machines,
+694,25.080.60,Sawing machines,
+695,25.080.99,Other machine tools,
+696,25.100.01,Cutting tools in general,
+697,25.100.10,Turning tools,
+698,25.100.20,Milling tools,
+699,25.100.25,Tools for planing and broaching machines,
+700,25.100.30,"Drills, countersinks, reamers",
+701,25.100.40,Saws,
+702,25.100.50,Taps and threading dies,
+703,25.100.60,Files,
+704,25.100.70,Abrasives,
+705,25.100.99,Other cutting tools,
+706,25.120.01,Chipless working equipment in general,
+707,25.120.10,Forging equipment. Presses. Shears,
+708,25.120.20,"Rolling, extruding and drawing equipment",
+709,25.120.30,Moulding equipment,
+710,25.120.40,Electrochemical machines,
+711,25.120.99,Other chipless working equipment,
+712,25.140.01,Hand-held tools in general,
+713,25.140.10,Pneumatic tools,
+714,25.140.20,Electric tools,
+715,25.140.30,Hand-operated tools,"Including wrenches, screwdrivers, pliers, nippers, hammers, etc."
+716,25.140.99,Other hand-held tools,
+717,25.160.01,"Welding, brazing and soldering in general",Including welders' qualifications
+718,25.160.10,Welding processes,Including thermal cutting and cladding
+719,25.160.20,Welding consumables,"Including electrodes, filler metals, gases, etc."
+720,25.160.30,Welding equipment,Including thermal cutting equipment
+721,25.160.40,Welded joints and welds,Including welding position and mechanical and non-destructive testing of welded joints
+722,25.160.50,Brazing and soldering,Including brazing and soldering alloys and equipment
+723,25.180.01,Industrial furnaces in general,
+724,25.180.10,Electric furnaces,
+725,25.180.20,Fuel furnaces,
+726,25.220.01,Surface treatment and coating in general,
+727,25.220.10,Surface preparation,"Including surface preparation for painting, cleaning, scouring, blasting, etc."
+728,25.220.20,Surface treatment,"Including anodization, conversion coating, thermal spraying, etc."
+729,25.220.40,Metallic coatings,"Including electrolytic depositions, cathodic coatings, autocatalytic coatings, etc."
+730,25.220.50,Enamels,
+731,25.220.60,Organic coatings,
+732,25.220.99,Other treatments and coatings,
+733,27.060.01,Burners and boilers in general,
+734,27.060.10,Liquid and solid fuel burners,
+735,27.060.20,Gas fuel burners,
+736,27.060.30,Boilers and heat exchangers,Including steam pressure vessels
+737,27.120.01,Nuclear energy in general,
+738,27.120.10,Reactor engineering,
+739,27.120.20,Nuclear power plants. Safety,
+740,27.120.30,Fissile materials and nuclear fuel technology,Including raw materials
+741,27.120.99,Other standards related to nuclear energy,
+742,29.035.01,Insulating materials in general,
+743,29.035.10,Paper and board insulating materials,
+744,29.035.20,Plastics and rubber insulating materials,Including adhesive tapes
+745,29.035.30,Glass and ceramic insulating materials,
+746,29.035.50,Mica based materials,
+747,29.035.60,Varnished fabrics,
+748,29.035.99,Other insulating materials,
+749,29.040.01,Insulating fluids in general,
+750,29.040.10,Insulating oils,
+751,29.040.20,Insulating gases,
+752,29.040.99,Other insulating fluids,
+753,29.060.01,Electrical wires and cables in general,
+754,29.060.10,Wires,"Including electric rods, busbars, etc."
+755,29.060.20,Cables,
+756,29.080.01,Electrical insulation in general,
+757,29.080.10,Insulators,Including fittings and other components for insulators
+758,29.080.20,Bushings,
+759,29.080.30,Insulation systems,
+760,29.080.99,Other standards related to insulation,
+761,29.100.01,Components for electrical equipment in general,
+762,29.100.10,Magnetic components,
+763,29.100.20,Electric and electromechanical components,
+764,29.100.99,Other components for electrical equipment,
+765,29.120.01,Electrical accessories in general,
+766,29.120.10,Conduits for electrical purposes,
+767,29.120.20,Connecting devices,
+768,29.120.30,"Plugs, socket-outlets, couplers",
+769,29.120.40,Switches,
+770,29.120.50,Fuses and other overcurrent protection devices,
+771,29.120.70,Relays,
+772,29.120.99,Other electrical accessories,
+773,29.130.01,Switchgear and controlgear in general,
+774,29.130.10,High voltage switchgear and controlgear,Including enclosed switchgear and controlgear
+775,29.130.20,Low voltage switchgear and controlgear,Including switchgear and controlgear assemblies
+776,29.130.99,Other switchgear and controlgear,
+777,29.140.01,Lamps in general,
+778,29.140.10,Lamp caps and holders,
+779,29.140.20,Incandescent lamps,
+780,29.140.30,Fluorescent lamps. Discharge lamps,
+781,29.140.40,Luminaires,
+782,29.140.50,Lighting installation systems,Including supply track systems
+783,29.140.99,Other standards related to lamps,
+784,29.160.01,Rotating machinery in general,
+785,29.160.10,Components for rotating machines,
+786,29.160.20,Generators,
+787,29.160.30,Motors,
+788,29.160.40,Generating sets,
+789,29.160.99,Other standards related to rotating machinery,
+790,29.220.01,Galvanic cells and batteries in general,
+791,29.220.10,Primary cells and batteries,
+792,29.220.20,Acid secondary cells and batteries,
+793,29.220.30,Alkaline secondary cells and batteries,
+794,29.220.99,Other cells and batteries,
+795,29.240.01,Power transmission and distribution networks in general,
+796,29.240.10,Substations. Surge arresters,
+797,29.240.20,Power transmission and distribution lines,
+798,29.240.30,Control equipment for electric power systems,
+799,29.240.99,Other equipment related to power transmission and distribution networks,Including capacitors for power networks
+800,29.260.01,Electrical equipment for working in special conditions in general,
+801,29.260.10,Electrical installations for outdoor use,
+802,29.260.20,Electrical apparatus for explosive atmospheres,
+803,29.260.99,Other electrical equipment for working in special conditions,
+804,31.040.01,Resistors in general,
+805,31.040.10,Fixed resistors,
+806,31.040.20,"Potentiometers, variable resistors",
+807,31.040.30,Thermistors,
+808,31.040.99,Other resistors,
+809,31.060.01,Capacitors in general,
+810,31.060.10,Fixed capacitors,
+811,31.060.20,Ceramic and mica capacitors,
+812,31.060.30,Paper and plastics capacitors,
+813,31.060.40,Tantalum electrolytic capacitors,
+814,31.060.50,Aluminium electrolytic capacitors,
+815,31.060.60,Variable capacitors,
+816,31.060.70,Power capacitors,
+817,31.060.99,Other capacitors,
+818,31.080.01,Semiconductor devices in general,
+819,31.080.10,Diodes,
+820,31.080.20,Thyristors,
+821,31.080.30,Transistors,
+822,31.080.99,Other semiconductor devices,
+823,31.220.01,Electromechanical components in general,
+824,31.220.10,Plug-and-socket devices. Connectors,
+825,31.220.20,Switches,
+826,31.220.99,Other electromechanical components,
+827,33.040.01,Telecommunication systems in general,
+828,33.040.20,Transmission systems,"Including synchronization, cable systems, integrated cabling, pathways and multiplexing"
+829,33.040.30,Switching and signalling systems,Including telecommunication call charging and billing aspects
+830,33.040.35,Telephone networks,"Including Public Switched Telephone Networks (PSTN), Private Telecommunication Networks (PTN) and Private Integrated Service Networks (PISN)"
+831,33.040.40,Data communication networks,Including Packet Switched Public Data Networks (PSPDN) and Ethernet
+832,33.040.50,"Lines, connections and circuits",Including access networks and network elements
+833,33.040.60,Powerline telecommunications,
+834,33.040.99,Other equipment for telecommunication systems,
+835,33.050.01,Telecommunication terminal equipment in general,
+836,33.050.10,Telephone equipment,
+837,33.050.20,Paging equipment,
+838,33.050.30,"Equipment for telex, teletext, telefax",
+839,33.050.99,Other telecommunication terminal equipment,
+840,33.060.01,Radiocommunications in general,
+841,33.060.20,Receiving and transmitting equipment,
+842,33.060.30,Radio relay and fixed satellite communications systems,
+843,33.060.40,Cabled distribution systems,
+844,33.060.99,Other equipment for radiocommunications,
+845,33.070.01,Mobile services in general,
+846,33.070.10,Terrestrial Trunked Radio (TETRA),
+847,33.070.20,Paging systems,Including European Radio Message System (ERMES)
+848,33.070.30,Digital Enhanced Cordless Telecommunications (DECT),
+849,33.070.40,Satellite,Including Global Positioning System (GPS)
+850,33.070.50,Global System for Mobile Communication (GSM),
+851,33.070.99,Other mobile services,
+852,33.100.01,Electromagnetic compatibility in general,
+853,33.100.10,Emission,
+854,33.100.20,Immunity,
+855,33.100.99,Other aspects related to EMC,
+856,33.120.01,Components and accessories in general,
+857,33.120.10,Coaxial cables. Waveguides,
+858,33.120.20,Wires and symmetrical cables,
+859,33.120.30,RF connectors,
+860,33.120.40,Aerials,
+861,33.120.99,Other components and accessories,
+862,33.160.01,"Audio, video and audiovisual systems in general",
+863,33.160.10,Amplifiers,
+864,33.160.20,Radio receivers,
+865,33.160.25,Television receivers,
+866,33.160.30,Audio systems,"Including tape recorders, records, magnetic tapes, cassettes, CDs, etc."
+867,33.160.40,Video systems,"Including video tape recorders, cameras, cassettes, laser disks, etc."
+868,33.160.50,Accessories,"Including headphones, loudspeakers, microphones, etc."
+869,33.160.60,Multimedia systems and teleconferencing equipment,
+870,33.160.99,"Other audio, video and audiovisual equipment",
+871,33.180.01,Fibre optic systems in general,
+872,33.180.10,Fibres and cables,
+873,33.180.20,Fibre optic interconnecting devices,
+874,33.180.30,Optic amplifiers,
+875,33.180.99,Other fibre optic equipment,
+876,35.040.01,Information coding in general,
+877,35.040.10,Coding of character sets,
+878,35.040.30,Coding of graphical and photographical information,
+879,35.040.40,"Coding of audio, video, multimedia and hypermedia information",
+880,35.040.50,Automatic identification and data capture techniques,"Including RFID, OCR, bar coding, etc."
+881,35.040.99,Other standards related to information coding,
+882,35.100.01,Open systems interconnection in general,
+883,35.100.05,Multilayer applications,Including International Standardized Profiles
+884,35.100.10,Physical layer,
+885,35.100.20,Data link layer,
+886,35.100.30,Network layer,
+887,35.100.40,Transport layer,
+888,35.100.50,Session layer,
+889,35.100.60,Presentation layer,
+890,35.100.70,Application layer,
+891,35.220.01,Data storage devices in general,
+892,35.220.10,Paper cards and tapes,
+893,35.220.20,Magnetic storage devices in general,
+894,35.220.21,Magnetic disks,"Including flexible disks, diskettes, disk packs, disk cartridges, etc."
+895,35.220.22,Magnetic tapes,
+896,35.220.23,Cassettes and cartridges for magnetic tapes,
+897,35.220.30,Optical storage devices,Including CD and magneto-optical devices (MO)
+898,35.220.99,Other data storage devices,
+899,35.240.01,Application of information technology in general,
+900,35.240.10,Computer-aided design (CAD),
+901,35.240.15,Identification cards. Chip cards. Biometrics,"Including application of cards for banking, trade, telecommunications, transport, etc."
+902,35.240.20,IT applications in office work,"Including text processing systems, text communication, text presentation, Office Document Architecture (ODA), etc."
+903,35.240.30,"IT applications in information, documentation and publishing","Including Standard Generalized Markup Language (SGML), Extensible Markup Language (XML), automatic translation machines, etc."
+904,35.240.40,IT applications in banking,Including automatic banking facilities
+905,35.240.50,IT applications in industry,Including design automation
+906,35.240.60,IT applications in transport,
+907,35.240.63,IT applications in trade,Including EDIFACT and e-commerce
+908,35.240.67,IT applications in building and construction industry,"Including building information modelling, Home and Building Electronic Systems (HBES)"
+909,35.240.68,IT applications in agriculture,
+910,35.240.69,IT applications in postal services,
+911,35.240.70,IT applications in science,Including digital geographic information
+912,35.240.80,IT applications in health care technology,Including computer tomography
+913,35.240.90,IT applications in education,Including e-learning
+914,35.240.95,Internet applications,
+915,35.240.99,IT applications in other fields,
+916,37.040.01,Photography in general,
+917,37.040.10,Photographic equipment. Projectors,
+918,37.040.20,"Photographic paper, films and plates. Cartridges",
+919,37.040.25,Radiographic films,"Including dental, medical and industrial radiographic films"
+920,37.040.30,Photographic chemicals,
+921,37.040.99,Other standards related to photography,
+922,37.060.01,Cinematography in general,
+923,37.060.10,Motion picture equipment,
+924,37.060.20,Motion picture films. Cartridges,
+925,37.060.99,Other standards related to cinematography,
+926,37.100.01,Graphic technology in general,Including proof corrections
+927,37.100.10,Reproduction equipment,"Including printing, copying and duplicating machines, bookbinding equipment, etc."
+928,37.100.20,Materials for graphic technology,
+929,37.100.99,Other standards related to graphic technology,
+930,39.040.01,Horology in general,
+931,39.040.10,Watches,
+932,39.040.20,Clocks,
+933,39.040.99,Other time-measuring instruments,
+934,43.040.01,Road vehicle systems in general,
+935,43.040.10,Electrical and electronic equipment,
+936,43.040.15,Car informatics. On board computer systems,"Including navigation systems, car radio, etc."
+937,43.040.20,"Lighting, signalling and warning devices",
+938,43.040.30,Indicating and control devices,
+939,43.040.40,Braking systems,
+940,43.040.50,"Transmissions, suspensions","Including clutches, gearboxes, power-steering systems, cardan shafts, differentials, wheels, rims, etc."
+941,43.040.60,Bodies and body components,"Including vehicle frame and structure, heating devices, air-conditioning systems for passenger/driver compartments, roof load carriers, etc."
+942,43.040.65,Glazing and wiper systems,"Including cleaning, defrosting and demisting devices, mirrors, etc."
+943,43.040.70,Couplings,Including towing attachments and fifth wheel assemblies
+944,43.040.80,Crash protection and restraint systems,"Including airbags, safety belts, traffic accident issues and safety enhancement matters"
+945,43.040.99,Other road vehicle systems,
+946,43.060.01,Internal combustion engines for road vehicles in general,
+947,43.060.10,Engine block and internal components,
+948,43.060.20,Pressure charging and air/exhaust gas ducting systems,
+949,43.060.30,Cooling systems. Lubricating systems,
+950,43.060.40,Fuel systems,
+951,43.060.50,Electrical and electronic equipment. Control systems,Including ignition systems and starter motors
+952,43.060.99,Other components and systems of internal combustion engines,
+953,43.080.01,Commercial vehicles in general,
+954,43.080.10,Trucks and trailers,Including tanker trucks and loading compartments
+955,43.080.20,Buses,
+956,43.080.99,Other commercial vehicles,
+957,45.060.01,Railway rolling stock in general,
+958,45.060.10,Tractive stock,
+959,45.060.20,Trailing stock,Including tank wagons
+960,47.020.01,General standards related to shipbuilding and marine structures,
+961,47.020.05,Materials and components for shipbuilding,
+962,47.020.10,Hulls and their structure elements,
+963,47.020.20,Marine engines and propulsion systems,
+964,47.020.30,Piping systems,
+965,47.020.40,Lifting and cargo handling equipment,
+966,47.020.50,Deck equipment and installations,
+967,47.020.60,Electrical equipment of ships and of marine structures,
+968,47.020.70,Navigation and control equipment,
+969,47.020.80,Accommodation spaces,
+970,47.020.85,Cargo spaces,Including tanks and tankers
+971,47.020.90,"Marine ventilation, air conditioning and heating systems",
+972,47.020.99,Other standards related to shipbuilding and marine structures,
+973,49.025.01,Materials for aerospace construction in general,
+974,49.025.05,Ferrous alloys in general,
+975,49.025.10,Steels,
+976,49.025.15,Non-ferrous alloys in general,
+977,49.025.20,Aluminium,
+978,49.025.30,Titanium,
+979,49.025.40,Rubber and plastics,
+980,49.025.50,Adhesives,
+981,49.025.60,Textiles,Including textile glass and coated fabrics
+982,49.025.99,Other materials,
+983,49.030.01,Fasteners in general,
+984,49.030.10,Screw threads,
+985,49.030.20,"Bolts, screws, studs",
+986,49.030.30,Nuts,
+987,49.030.40,"Pins, nails",
+988,49.030.50,Washers and other locking elements,
+989,49.030.60,Rivets,
+990,49.030.99,Other fasteners,
+991,53.020.01,Lifting appliances in general,
+992,53.020.20,Cranes,"Including mobile cranes, tower cranes, jib cranes, bridge cranes, etc."
+993,53.020.30,Accessories for lifting equipment,"Including lifting hooks, shackles, link chains, wire ropes, etc."
+994,53.020.99,Other lifting equipment,Including elevating work platforms
+995,53.040.01,Continuous handling equipment in general,
+996,53.040.10,Conveyors,
+997,53.040.20,Components for conveyors,"Including conveyor belts, chains, chain wheels, etc."
+998,53.040.30,Pneumatic transport and its components,
+999,53.040.99,Other continuous handling equipment,
+1000,55.180.01,Freight distribution of goods in general,
+1001,55.180.10,General purpose containers,
+1002,55.180.20,General purpose pallets,
+1003,55.180.30,"Air mode containers, pallets and nets",
+1004,55.180.40,"Complete, filled transport packages",Including reusable packages and unit loads
+1005,55.180.99,Other standards related to freight distribution of goods,Including intermediate bulk containers
+1006,59.060.01,Textile fibres in general,Including mixtures of fibres
+1007,59.060.10,Natural fibres,
+1008,59.060.20,Man-made fibres,
+1009,59.060.30,Mineral and metal fibres,
+1010,59.060.99,Other textile fibres,
+1011,59.080.01,Textiles in general,Including colour fastness of textiles
+1012,59.080.20,Yarns,"Including plied yarns, textured yarns, threads"
+1013,59.080.30,Textile fabrics,"Including nonwovens, felts, lace, etc."
+1014,59.080.40,Coated fabrics,
+1015,59.080.50,Ropes,"Including strings, straps, bands"
+1016,59.080.70,Geotextiles,Including geosynthetics
+1017,59.080.80,Smart textiles,
+1018,59.080.99,Other products of the textile industry,
+1019,59.100.01,Materials for the reinforcement of composites in general,
+1020,59.100.10,Textile glass materials,
+1021,59.100.20,Carbon materials,
+1022,59.100.30,Aramide materials,
+1023,59.100.99,Other materials for the reinforcement of composites,
+1024,59.120.01,Textile machinery in general,
+1025,59.120.10,"Spinning, twisting and texturing machines",Including machines and equipment for manufacturing man-made filaments and fibres and for preparing fibres for spinning
+1026,59.120.20,Winding machines and equipment,"Including machines and equipment for reeling, balling, warping, sizing, beaming, etc. of yarns"
+1027,59.120.30,Looms. Weaving machines,
+1028,59.120.40,Knitting machines,Including household knitting machines
+1029,59.120.50,Dyeing and finishing equipment,
+1030,59.120.99,Other textile machinery,
+1031,59.140.01,Leather technology in general,
+1032,59.140.10,Processes and auxiliary materials,
+1033,59.140.20,"Raw skins, hides and pelts",
+1034,59.140.30,Leather and furs,
+1035,59.140.35,Leather products,"Including trunks, suitcases, handbags, purses, wallets, dog-collars, etc. made of materials other than leather"
+1036,59.140.40,Machines and equipment for leather and fur production,
+1037,59.140.99,Other standards related to leather technology,
+1038,65.020.01,Farming and forestry in general,
+1039,65.020.20,Plant growing,"Including horticulture, floriculture, seeds, plant diseases"
+1040,65.020.30,Animal husbandry and breeding,Including sanitary inspection
+1041,65.020.40,Landscaping and silviculture,
+1042,65.020.99,Other standards related to farming and forestry,
+1043,65.040.01,Farm buildings and installations in general,
+1044,65.040.10,"Livestock buildings, installations and equipment",Including milking machines
+1045,65.040.20,Buildings and installations for processing and storage of agricultural produce,Including slaughterhouses and related equipment
+1046,65.040.30,Greenhouses and other installations,
+1047,65.040.99,Other standards related to farm buildings and installations,
+1048,65.060.01,Agricultural machines and equipment in general,
+1049,65.060.10,Agricultural tractors and trailed vehicles,
+1050,65.060.20,Soil-working equipment,
+1051,65.060.25,"Equipment for storage, preparation and distribution of fertilizers",
+1052,65.060.30,Sowing and planting equipment,
+1053,65.060.35,Irrigation and drainage equipment,
+1054,65.060.40,Plant care equipment,
+1055,65.060.50,Harvesting equipment,
+1056,65.060.60,Viticultural and wine-making equipment,
+1057,65.060.70,Horticultural equipment,"Including lawnmowers, equipment for olive cultivation and olive production"
+1058,65.060.80,Forestry equipment,Including chain- and brush-saws
+1059,65.060.99,Other agricultural machines and equipment,
+1060,65.100.01,Pesticides and other agrochemicals in general,
+1061,65.100.10,Insecticides,
+1062,65.100.20,Herbicides,
+1063,65.100.30,Fungicides,
+1064,65.100.99,Other pesticides and agrochemicals,
+1065,67.080.01,"Fruits, vegetables and derived products in general",
+1066,67.080.10,Fruits and derived products,Including nuts
+1067,67.080.20,Vegetables and derived products,"Including tomato concentrates, ketchup, etc."
+1068,67.100.01,Milk and milk products in general,
+1069,67.100.10,Milk and processed milk products,"Including dried milk, condensed milk and evaporated milk"
+1070,67.100.20,Butter,
+1071,67.100.30,Cheese,"Including cottage cheese, whey cheese"
+1072,67.100.40,Ice cream and ice confectionery,Including sorbets
+1073,67.100.99,Other milk products,
+1074,67.120.01,Animal produce in general,
+1075,67.120.10,Meat and meat products,
+1076,67.120.20,Poultry and eggs,
+1077,67.120.30,Fish and fishery products,Including aquatic molluscs and other marine products
+1078,67.120.99,Other animal produce,
+1079,67.140.10,Tea,Including herb teas
+1080,67.140.20,Coffee and coffee substitutes,
+1081,67.140.30,Cocoa,
+1082,67.160.01,Beverages in general,
+1083,67.160.10,Alcoholic beverages,"Including beer, wine, spirits, etc."
+1084,67.160.20,Non-alcoholic beverages,"Including juices, nectars, mineral waters, lemonades, root beer, cola drinks, etc."
+1085,67.180.10,Sugar and sugar products,"Including molasses, sweets, sugar confectionary, honey, etc."
+1086,67.180.20,Starch and derived products,"Including glucose syrups, etc."
+1087,67.200.10,Animal and vegetable fats and oils,
+1088,67.200.20,Oilseeds,
+1089,67.220.10,Spices and condiments,
+1090,67.220.20,Food additives,"Including salt, vinegar, food preservation additives, etc."
+1091,71.040.01,Analytical chemistry in general,
+1092,71.040.10,Chemical laboratories. Laboratory equipment,"Including hydrometers, alcoholometers, etc."
+1093,71.040.20,Laboratory ware and related apparatus,
+1094,71.040.30,Chemical reagents,Including reference materials
+1095,71.040.40,Chemical analysis,Including analysis of gases and surface chemical analysis
+1096,71.040.50,Physicochemical methods of analysis,Including spectrophotometric and chromatographic analysis
+1097,71.040.99,Other standards related to analytical chemistry,
+1098,71.060.01,Inorganic chemicals in general,
+1099,71.060.10,Chemical elements,
+1100,71.060.20,Oxides,"Including dioxides, peroxides, etc."
+1101,71.060.30,Acids,
+1102,71.060.40,Bases,
+1103,71.060.50,Salts,
+1104,71.060.99,Other inorganic chemicals,
+1105,71.080.01,Organic chemicals in general,
+1106,71.080.10,Aliphatic hydrocarbons,
+1107,71.080.15,Aromatic hydrocarbons,
+1108,71.080.20,Halogenated hydrocarbons,
+1109,71.080.30,Organic nitrogen compounds,
+1110,71.080.40,Organic acids,
+1111,71.080.50,Anhydrides,
+1112,71.080.60,Alcohols. Ethers,
+1113,71.080.70,Esters,
+1114,71.080.80,Aldehydes and ketones,
+1115,71.080.90,Phenols,
+1116,71.080.99,Other organic chemicals,
+1117,71.100.01,Products of the chemical industry in general,
+1118,71.100.10,Materials for aluminium production,
+1119,71.100.20,Gases for industrial application,Including compressed air and hydrogen
+1120,71.100.30,Explosives. Pyrotechnics and fireworks,
+1121,71.100.35,Chemicals for industrial and domestic disinfection purposes,
+1122,71.100.40,Surface active agents,
+1123,71.100.45,Refrigerants and antifreezes,
+1124,71.100.50,Wood-protecting chemicals,
+1125,71.100.55,Silicones,
+1126,71.100.60,Essential oils,
+1127,71.100.70,Cosmetics. Toiletries,
+1128,71.100.80,Chemicals for purification of water,
+1129,71.100.99,Other products of the chemical industry,
+1130,71.120.01,Equipment for the chemical industry in general,
+1131,71.120.10,Reaction vessels and their components,
+1132,71.120.20,Columns,
+1133,71.120.30,Heat exchangers,
+1134,71.120.99,Other equipment for the chemical industry,
+1135,73.060.01,Metalliferous minerals in general,
+1136,73.060.10,Iron ores,
+1137,73.060.20,Manganese ores,
+1138,73.060.30,Chromium ores,
+1139,73.060.40,Aluminium ores,
+1140,73.060.99,Other metalliferous minerals,
+1141,73.100.01,Mining equipment in general,
+1142,73.100.10,Tunnelling and tubing equipment,
+1143,73.100.20,"Ventilation, air-conditioning and illumination equipment",
+1144,73.100.30,Equipment for drilling and mine excavation,Including equipment for seabed mining
+1145,73.100.40,Haulage and hoisting equipment,
+1146,73.100.99,Other mining equipment,
+1147,75.160.01,Fuels in general,
+1148,75.160.10,Solid fuels,"Including coal products, coke, peat, wood, derivatives of coal pyrolysis, etc."
+1149,75.160.20,Liquid fuels,"Including gasoline, diesel, kerosene, etc."
+1150,75.160.30,Gaseous fuels,Including liquefied petroleum gases
+1151,75.160.40,Biofuels,"Including solid biofuels, liquid biofuels and biogas"
+1152,75.180.01,Equipment for petroleum and natural gas industries in general,
+1153,75.180.10,"Exploratory, drilling and extraction equipment",Including offshore structures
+1154,75.180.20,Processing equipment,
+1155,75.180.30,Volumetric equipment and measurements,
+1156,75.180.99,Other equipment for petroleum and natural gas industries,
+1157,77.040.01,Testing of metals in general,
+1158,77.040.10,Mechanical testing of metals,
+1159,77.040.20,Non-destructive testing of metals,
+1160,77.040.30,Chemical analysis of metals,
+1161,77.040.99,Other methods of testing of metals,
+1162,77.080.01,Ferrous metals in general,
+1163,77.080.10,Irons,
+1164,77.080.20,Steels,
+1165,77.120.01,Non-ferrous metals in general,
+1166,77.120.10,Aluminium and aluminium alloys,
+1167,77.120.20,Magnesium and magnesium alloys,
+1168,77.120.30,Copper and copper alloys,
+1169,77.120.40,"Nickel, chromium and their alloys",
+1170,77.120.50,Titanium and titanium alloys,
+1171,77.120.60,"Lead, zinc, tin and their alloys",
+1172,77.120.70,"Cadmium, cobalt and their alloys",
+1173,77.120.99,Other non-ferrous metals and their alloys,
+1174,77.140.01,Iron and steel products in general,
+1175,77.140.10,Heat-treatable steels,
+1176,77.140.15,Steels for reinforcement of concrete,
+1177,77.140.20,Stainless steels,"Including alloyed steels, corrosion-resistant steels, heat-resisting steels, etc."
+1178,77.140.25,Spring steels,
+1179,77.140.30,Steels for pressure purposes,
+1180,77.140.35,Tool steels,
+1181,77.140.40,Steels with special magnetic properties,
+1182,77.140.45,Non-alloyed steels,
+1183,77.140.50,Flat steel products and semi-products,"Including plate, sheet and strip"
+1184,77.140.60,Steel bars and rods,
+1185,77.140.65,"Steel wire, wire ropes and link chains",
+1186,77.140.70,Steel profiles,Including sections
+1187,77.140.75,Steel pipes and tubes for specific use,Including hollow steel bars and sections for construction
+1188,77.140.80,Iron and steel castings,
+1189,77.140.85,Iron and steel forgings,
+1190,77.140.99,Other iron and steel products,
+1191,77.150.01,Products of non-ferrous metals in general,
+1192,77.150.10,Aluminium products,
+1193,77.150.20,Magnesium products,
+1194,77.150.30,Copper products,
+1195,77.150.40,Nickel and chromium products,
+1196,77.150.50,Titanium products,
+1197,77.150.60,"Lead, zinc and tin products",
+1198,77.150.70,Cadmium and cobalt products,
+1199,77.150.99,Other products of non-ferrous metals,
+1200,79.060.01,Wood-based panels in general,
+1201,79.060.10,Plywood,
+1202,79.060.20,Fibre and particle boards,
+1203,79.060.99,Other wood-based panels,
+1204,79.120.01,Woodworking equipment in general,
+1205,79.120.10,Woodworking machines,
+1206,79.120.20,Woodworking tools,
+1207,79.120.99,Other woodworking equipment,
+1208,81.040.01,Glass in general,
+1209,81.040.10,Raw materials and raw glass,
+1210,81.040.20,Glass in building,
+1211,81.040.30,Glass products,
+1212,81.060.01,Ceramics in general,
+1213,81.060.10,Raw materials,
+1214,81.060.20,Ceramic products,
+1215,81.060.30,Advanced ceramics,
+1216,81.060.99,Other standards related to ceramics,
+1217,83.040.01,Raw materials for rubber and plastics in general,
+1218,83.040.10,Latex and raw rubber,
+1219,83.040.20,Rubber compounding ingredients,"Including carbon black, kaolin clay, etc."
+1220,83.040.30,Auxiliary materials and additives for plastics,"Including fillers, extenders, hardeners, pigments, plasticizers, etc."
+1221,83.080.01,Plastics in general,
+1222,83.080.10,Thermosetting materials,Including ebonite
+1223,83.080.20,Thermoplastic materials,
+1224,83.140.01,Rubber and plastics products in general,
+1225,83.140.10,Films and sheets,Including plates
+1226,83.140.20,Laminated sheets,
+1227,83.140.30,Plastics pipes and fittings for non fluid use,
+1228,83.140.40,Hoses,
+1229,83.140.50,Seals,
+1230,83.140.99,Other rubber and plastics products,
+1231,83.160.01,Tyres in general,
+1232,83.160.10,Road vehicle tyres,"Including cycle tyres, and tyre retreading and repair processes"
+1233,83.160.20,Aircraft tyres,
+1234,83.160.30,Tyres for agricultural machinery,
+1235,83.160.99,Other tyres,
+1236,85.080.01,Paper products in general,
+1237,85.080.10,Office paper,
+1238,85.080.20,Tissue paper,
+1239,85.080.30,Cardboard,Including corrugated fibreboard
+1240,85.080.99,Other paper products,
+1241,87.060.01,Paint ingredients in general,
+1242,87.060.10,Pigments and extenders,
+1243,87.060.20,Binders,
+1244,87.060.30,Solvents,
+1245,87.060.99,Other paint ingredients,
+1246,91.010.01,Construction industry in general,
+1247,91.010.10,Legal aspects,
+1248,91.010.20,Contractual aspects,Including construction procurement
+1249,91.010.30,Technical aspects,"Including tolerances, modular coordination, etc."
+1250,91.010.99,Other aspects,
+1251,91.040.01,Buildings in general,Including building environment design and service life planning
+1252,91.040.10,Public buildings,Including ecclesiastical buildings and hospitals
+1253,91.040.20,Buildings for commerce and industry,
+1254,91.040.30,Residential buildings,
+1255,91.040.99,Other buildings,
+1256,91.060.01,Elements of buildings in general,
+1257,91.060.10,Walls. Partitions. Façades,
+1258,91.060.20,Roofs,"Including related elements (gutters, etc.)"
+1259,91.060.30,Ceilings. Floors. Stairs,"Including screeds, ramps, etc."
+1260,91.060.40,"Chimneys, shafts, ducts",Including flues and flue pipes
+1261,91.060.50,Doors and windows,"Including doorsets, their components, blinds, shutters"
+1262,91.060.99,Other elements of buildings,
+1263,91.080.01,Structures of buildings in general,
+1264,91.080.10,Metal structures,
+1265,91.080.13,Steel structures,
+1266,91.080.17,Aluminium structures,
+1267,91.080.20,Timber structures,
+1268,91.080.30,Masonry,
+1269,91.080.40,Concrete structures,Including the repair and protection of concrete products and structures
+1270,91.080.99,Other structures,
+1271,91.100.01,Construction materials in general,
+1272,91.100.10,Cement. Gypsum. Lime. Mortar,
+1273,91.100.15,Mineral materials and products,"Including earth, sands, clay, slates, stones, etc."
+1274,91.100.23,Ceramic tiles,
+1275,91.100.25,Terracotta building products,"Including roofing tiles, bricks, etc."
+1276,91.100.30,Concrete and concrete products,Including admixtures
+1277,91.100.40,Products in fibre-reinforced cement,
+1278,91.100.50,Binders. Sealing materials,"Including geomembranes, asphalts for buildings, etc."
+1279,91.100.60,Thermal and sound insulating materials,
+1280,91.100.99,Other construction materials,
+1281,91.120.01,Protection of and in buildings in general,
+1282,91.120.10,Thermal insulation of buildings,Including energy efficiency of buildings
+1283,91.120.20,Acoustics in building. Sound insulation,
+1284,91.120.25,Seismic and vibration protection,
+1285,91.120.30,Waterproofing,
+1286,91.120.40,Lightning protection,
+1287,91.120.99,Other standards related to protection of and in buildings,
+1288,91.140.01,Installations in buildings in general,
+1289,91.140.10,Central heating systems,Including burners and boilers for central heating systems
+1290,91.140.30,Ventilation and air-conditioning systems,Including ventilation ducts
+1291,91.140.40,Gas supply systems,Including gas meters in buildings
+1292,91.140.50,Electricity supply systems,"Including electric energy meters in buildings, emergency electrical supplies, etc."
+1293,91.140.60,Water supply systems,Including water meters in buildings
+1294,91.140.65,Water heating equipment,
+1295,91.140.70,Sanitary installations,"Including bidets, kitchen sinks, baths, waste chutes, etc."
+1296,91.140.80,Drainage systems,
+1297,91.140.90,Lifts. Escalators,
+1298,91.140.99,Other installations in buildings,
+1299,91.160.01,Lighting in general,
+1300,91.160.10,Interior lighting,"Including workplace lighting, emergency and safety lighting"
+1301,91.160.20,Exterior building lighting,Including flood lighting
+1302,93.080.01,Road engineering in general,
+1303,93.080.10,Road construction,Including road maintenance equipment and road construction equipment
+1304,93.080.20,Road construction materials,"Including asphalts, road pavements, etc."
+1305,93.080.30,Road equipment and installations,"Including road traffic warning and control systems, devices and installations (speed controls, traffic signal installations, vehicle loop detectors, pavement markers, manholes, etc.)"
+1306,93.080.40,Street lighting and related equipment,
+1307,93.080.99,Other standards related to road engineering,
+1308,97.040.01,Kitchen equipment in general,
+1309,97.040.10,Kitchen furniture,
+1310,97.040.20,"Cooking ranges, working tables, ovens and similar appliances",Including microwave ovens and stove hoods
+1311,97.040.30,Domestic refrigerating appliances,
+1312,97.040.40,Dishwashers,
+1313,97.040.50,Small kitchen appliances,Including food waste disposal units
+1314,97.040.60,"Cookware, cutlery and flatware",Including table cutlery and table ware
+1315,97.040.99,Other kitchen equipment,
+1316,97.100.01,Heating appliances in general,
+1317,97.100.10,Electric heaters,
+1318,97.100.20,Gas heaters,
+1319,97.100.30,Solid fuel heaters,
+1320,97.100.40,Liquid fuel heaters,
+1321,97.100.99,Heaters using other sources of energy,
+1322,97.130.01,Shop fittings in general,
+1323,97.130.10,Shelving,
+1324,97.130.20,Commercial refrigerating appliances,"Including refrigerated display cabinets, cold rooms, etc."
+1325,97.130.30,Trolleys for supermarket purposes,Including baskets
+1326,97.130.99,Other shop fittings,
+1327,97.200.01,Equipment for entertainment in general,
+1328,97.200.10,"Theatre, stage and studio equipment",Including lighting equipment
+1329,97.200.20,Musical instruments,
+1330,97.200.30,Camping equipment and camp-sites,
+1331,97.200.40,Playgrounds,Including amusement rides and devices
+1332,97.200.50,Toys,Including safety of toys
+1333,97.200.99,Other equipment for entertainment,
+1334,97.220.01,Sports equipment and facilities in general,
+1335,97.220.10,Sports facilities,"Including swimming-pools, spas, solaria, sports fields, running-tracks, spectator facilities for sports, etc."
+1336,97.220.20,Winter sports equipment,"Including ice hockey, snowboard, and ski equipment"
+1337,97.220.30,Indoor sports equipment,"Including equipment for gymnastics, volleyball, basketball, handball, home sports trainers, etc."
+1338,97.220.40,Outdoor and water sports equipment,"Including equipment for mountaineering, football, tennis, swimming, diving, etc."
+1339,97.220.99,Other sports equipment and facilities,
