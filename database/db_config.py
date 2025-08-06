@@ -1,9 +1,12 @@
 import os
 from pymongo import MongoClient
-#from dotenv import load_dotenv
+from dotenv import load_dotenv
 
-#load_dotenv()
-client = MongoClient("mongodb+srv://ismail13:Germanywc_2014@iso-cluster.z3ohaxf.mongodb.net/?retryWrites=true&w=majority&appName=ISO-Cluster")
+load_dotenv()
+
+mongo_cluster=os.getenv("MONGO_URL")
+
+client = MongoClient(mongo_cluster)
 db = client["iso-bot-db"]
 threads = db["threads"]
 
