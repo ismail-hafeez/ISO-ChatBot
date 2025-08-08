@@ -1,4 +1,5 @@
 import streamlit as st
+from dotenv import load_dotenv
 import requests
 import uuid
 import os 
@@ -120,11 +121,14 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+load_dotenv()
+BACKEND_IMG=os.getenv("BACKEND_IMG")
+
 with st.sidebar:
         
     st.title("💬 Chats")
     try:                       
-        threads = requests.get("https://backend-img-791135088593.us-central1.run.app/get_threads").json()
+        threads = requests.get(f"{BACKEND_IMG}/get_threads").json()
     except Exception as e:
         st.warning("Couldn't connect to backend. Is it running?")
         threads = []
@@ -134,7 +138,7 @@ with st.sidebar:
     # Display list of threads
     for t in threads:
         if st.button(f"📁 {t['title']}", key=t['thread_id']):
-            thread_data = requests.get(f"https://backend-img-791135088593.us-central1.run.app/get_thread/{t['thread_id']}").json()
+            thread_data = requests.get(f"{BACKEND_IMG}/get_thread/{t['thread_id']}").json()
             st.session_state.messages = thread_data["messages"]
             st.session_state.thread_id = t["thread_id"]
             st.session_state.thread_title = t['title']
@@ -145,7 +149,7 @@ with st.sidebar:
         st.session_state.thread_id = str(uuid.uuid4())
         st.session_state.thread_title = "Untitled Chat"
         # Optionally: notify backend about the new chat (so it's visible in sidebar immediately)
-        requests.post("https://backend-img-791135088593.us-central1.run.app/create_thread", json={
+        requests.post(f"{BACKEND_IMG}/create_thread", json={
             "thread_id": st.session_state.thread_id,
             "title": st.session_state.thread_title
         })
@@ -157,7 +161,7 @@ with st.sidebar:
         if new_title != current_title:
             st.session_state.thread_title = new_title
             # Update in backend
-            requests.post("https://backend-img-791135088593.us-central1.run.app/update_thread_title", json={
+            requests.post(f"{BACKEND_IMG}/update_thread_title", json={
                 "thread_id": st.session_state.thread_id,
                 "title": new_title
             })
@@ -206,7 +210,7 @@ if prompt := st.chat_input("What can I do for you?"):
     }
     # Call backend
     try:
-        response = requests.post("https://backend-img-791135088593.us-central1.run.app/chat", json=payload, timeout=90).json()
+        response = requests.post(f"{BACKEND_IMG}/chat", json=payload, timeout=90).json()
         reply = response.get("answer", "[No answer found]")
         st.session_state.thread_id = response.get("thread_id", st.session_state.thread_id)
     except Exception as e:

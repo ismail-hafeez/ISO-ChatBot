@@ -8,6 +8,5 @@ __pycache__/
 # Data files
 iso_docs.jsonl
 data/error_scraping.csv
-data/processed_codes.txt
 notebook.ipynb
 src/processed_codes1.json

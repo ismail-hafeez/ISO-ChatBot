@@ -1,12 +1,9 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
-import os
-import sys
 import json
 
 # file import
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from web_app.vertex_config import vector_store
+from config.vertex_config import vector_store
 
 data_path = "../data/iso_docs.jsonl"
 PROCESSED_LOG_PATH = "../data/processed_codes.txt"
