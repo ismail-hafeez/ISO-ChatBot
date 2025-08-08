@@ -66,7 +66,7 @@ with sync_playwright() as p:
     browser = p.chromium.launch(headless=False)
     codes = code_list()
 
-    iterator = 6401 
+    iterator = 0 #6401 
 
     for idx, code in enumerate(codes[iterator:]): 
         print(f"[{iterator}/{len(codes)}] Processing: {code}")
