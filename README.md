@@ -4,24 +4,27 @@ A chatbot trained on free material ISO Standard Documents to answer any query in
 
 ## Tech Stack
 ### Frontend
-. Streamlit
+- Streamlit
 
 ### Backend
-. FASTAPI
+- FASTAPI
+- Python
 
 ### LLM
-. Gemini 2.5 flash
+- Gemini 2.5 flash
 
 ### AI Frameworks
-. LangGraph
-
-. LangChain
-
+- LangGraph
+- LangChain
+- Vertex AI
+- Vector Store
+- 
 ### Cloud
-. Google Cloud Platform (GCP)
+- Google Cloud Platform (GCP)
+- Google Run
 
 ### Containerization
-. Docker
+- Docker
 
 # Workflow
 -> Around 6000 ISO Documents were scraped and stored in JSONL file. 
