@@ -18,7 +18,7 @@ A chatbot trained on free material ISO Standard Documents to answer any query in
 - LangChain
 - Vertex AI
 - Vector Store
-- 
+  
 ### Cloud
 - Google Cloud Platform (GCP)
 - Google Run
